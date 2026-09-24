@@ -22,65 +22,65 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Aula 2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0005806678944544" />
-      <entry key="MS500" value="1.2405831879130074" />
-      <entry key="S2" value="2.928963212641931" />
-      <entry key="S5" value="6.564360740465753" />
-      <entry key="S10" value="12.937414241703408" />
-      <entry key="S30" value="36.80575274623172" />
-      <entry key="S60" value="69.75966932424099" />
-      <entry key="M2" value="126.73994948013525" />
-      <entry key="M5" value="212.24617294583155" />
-      <entry key="M10" value="259.8247579919525" />
-      <entry key="M15" value="278.9007469698347" />
-      <entry key="M30" value="299.8877178612126" />
-      <entry key="H1" value="311.16383525862705" />
-      <entry key="H2" value="317.01002683657435" />
-      <entry key="H4" value="319.9867992419627" />
-      <entry key="D1" value="322.49524935203084" />
-      <entry key="W1" value="322.9278300300186" />
+      <entry key="MS100" value="2.1087812056454776E-13" />
+      <entry key="MS500" value="0.0059330471123181395" />
+      <entry key="S2" value="1.2027277887426246" />
+      <entry key="S5" value="5.36381631269375" />
+      <entry key="S10" value="12.219298889701749" />
+      <entry key="S30" value="29.337828929130193" />
+      <entry key="S60" value="39.9568970358434" />
+      <entry key="M2" value="59.07753748031125" />
+      <entry key="M5" value="137.5352313151666" />
+      <entry key="M10" value="220.97186788014196" />
+      <entry key="M15" value="264.0643015982657" />
+      <entry key="M30" value="318.38102327830046" />
+      <entry key="H1" value="350.67893084717235" />
+      <entry key="H2" value="368.3054432549605" />
+      <entry key="H4" value="377.5151088532819" />
+      <entry key="D1" value="385.39971274851155" />
+      <entry key="W1" value="386.77090591220843" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.4045953094160995E-35" />
-      <entry key="MS500" value="1.2776535302833234E-7" />
-      <entry key="S2" value="0.018906459937814264" />
-      <entry key="S5" value="0.2081995973226117" />
-      <entry key="S10" value="0.538819507680993" />
-      <entry key="S30" value="1.5851001172933274" />
-      <entry key="S60" value="2.566705228004222" />
-      <entry key="M2" value="3.6151372913580158" />
-      <entry key="M5" value="4.758576726977294" />
-      <entry key="M10" value="5.311708074964942" />
-      <entry key="M15" value="5.524096529267008" />
-      <entry key="M30" value="5.752947077366596" />
-      <entry key="H1" value="5.874081597466376" />
-      <entry key="H2" value="5.936427497677523" />
-      <entry key="H4" value="5.968058461081022" />
-      <entry key="D1" value="5.994654673581754" />
-      <entry key="W1" value="5.999235847397992" />
+      <entry key="MS100" value="1.0001502861832696" />
+      <entry key="MS500" value="1.171942727267468" />
+      <entry key="S2" value="1.6439408147549126" />
+      <entry key="S5" value="1.8385681866783932" />
+      <entry key="S10" value="1.9158104317267826" />
+      <entry key="S30" value="2.058191135523958" />
+      <entry key="S60" value="2.518294764050009" />
+      <entry key="M2" value="3.571631460434544" />
+      <entry key="M5" value="5.955851894512391" />
+      <entry key="M10" value="7.8270906980475825" />
+      <entry key="M15" value="8.699618543427245" />
+      <entry key="M30" value="9.744174748530867" />
+      <entry key="H1" value="10.342873302196429" />
+      <entry key="H2" value="10.663747470811774" />
+      <entry key="H4" value="10.829900850313885" />
+      <entry key="D1" value="10.971371720124962" />
+      <entry key="W1" value="10.995903368943361" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.03589726884650455" />
-      <entry key="MS500" value="0.5828872686447726" />
-      <entry key="S2" value="2.5769118447674564" />
-      <entry key="S5" value="6.539107268691285" />
-      <entry key="S10" value="13.301215919657906" />
-      <entry key="S30" value="38.27835437603385" />
-      <entry key="S60" value="72.23549511069312" />
-      <entry key="M2" value="130.28416256870887" />
-      <entry key="M5" value="216.96289724717602" />
-      <entry key="M10" value="265.11201255057006" />
-      <entry key="M15" value="284.40761767834545" />
-      <entry key="M30" value="305.6315493008284" />
-      <entry key="H1" value="317.0332250114692" />
-      <entry key="H2" value="322.94407380051535" />
-      <entry key="H4" value="325.95365864112205" />
-      <entry key="D1" value="328.48970294816024" />
-      <entry key="W1" value="328.9270371216896" />
+      <entry key="MS100" value="0.03874087167504926" />
+      <entry key="MS500" value="0.5505656257618745" />
+      <entry key="S2" value="2.438003134796941" />
+      <entry key="S5" value="6.980790140317339" />
+      <entry key="S10" value="14.009333000144506" />
+      <entry key="S30" value="31.345165656698143" />
+      <entry key="S60" value="42.43960150205946" />
+      <entry key="M2" value="62.61644681975898" />
+      <entry key="M5" value="143.45917840847954" />
+      <entry key="M10" value="228.77441082894808" />
+      <entry key="M15" value="272.74474610562555" />
+      <entry key="M30" value="328.11388715845465" />
+      <entry key="H1" value="361.0156458270645" />
+      <entry key="H2" value="378.9659756192562" />
+      <entry key="H4" value="388.34336680027417" />
+      <entry key="D1" value="396.3708056217148" />
+      <entry key="W1" value="397.7667693211069" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -92,34 +92,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Aulas ads/Fase 2/Programação orientada  a objetos/ddads-pratica&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Aulas ads/Fase 2/Programação orientada  a objetos/ddads-pratica",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Aulas ads\Fase 2\Programação orientada  a objetos\ddads-pratica\Aula 1" />
